@@ -1,0 +1,59 @@
+/* styles.css */
+
+/* Cor do background geral do dashboard */
+body {
+    background-color: #cfd5db; /* Exemplo: cinza claro */
+    font-family: 'Segoe UI', sans-serif; /* Exemplo: fonte Segoe UI */
+}
+
+/* Formatação de label */
+.bold-label {
+    font-weight: bold;
+}
+
+/* Formatação do título */
+.custom-title {
+    color: #333333; /* Exemplo: azul */
+    font-weight: bold; /* Negrito */
+    margin-left: 180px;  /* Ajuste conforme necessário */
+}
+
+/* Formatação do título 1 */
+.custom-title1 {
+    color: #333333; /* Exemplo: azul */
+    font-weight: bold; /* Negrito */
+    /* margin-left: 380px;  /* Ajuste conforme necessário */
+    text-align: center;
+}
+
+/* Formatação do subtítulo */
+.custom-subtitle {
+    color: #860838; /* Exemplo: cinza */
+    font-style: italic; /* Itálico */
+    font-size: 10px;
+    text-align: center;
+}
+
+/* Tela pagina inicial */
+.desloca-div p {
+    margin-left: 250px;
+    margin-top: 3px;  /* Diminui o espaço superior entre os parágrafos */
+    margin-bottom: 3px;  /* Diminui o espaço inferior entre os parágrafos */
+  }
+
+.desloca-h {
+    margin-left: 250px;
+  }
+
+/* Formatação do Rodapé */
+.rodape {
+    background-color: #2935d6;      /* Cor de fundo */
+    color: white;                   /* Cor do texto */
+    text-align: center;              /* Alinha o texto ao centro */
+    padding: 10px;                   /* Padding (margem interna) */
+    font-family: Arial, sans-serif;  /* Fonte */
+    font-size: 12px;                 /* Tamanho da fonte */
+    width: 100%;                     /* Largura total da tela */
+    position: relative;              /* Posicionamento relativo */
+    bottom: 0;                       /* Coloca o rodapé no final */
+}
