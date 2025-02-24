@@ -3,17 +3,17 @@ Machine Learning - Dash - Doenças Cardíacas
 
 UC Irvine - Universidade da Califórnia - Doenças Cardíacas
 
-Projeto:
+**Projeto:**
 
 Estudo desenvolvido com a aplicação do XGBoost, uma implementação eficiente e otimizada do algoritmo Gradient Boosting, utilizado em aprendizado supervisionado, e do Dash, uma ferramenta poderosa para a criação de aplicações interativas de visualização de dados, utilizada para disponibilizar o modelo aos usuários finais.
 
-Negócio:
+**Negócio:**
 
 Os dados utilizados nesse projeto foram obtidos do UCI Machine Learning Repository. Esses dados provêm de resultados clínicos e testes não invasivos realizados em pacientes submetidos a exames na Cleveland Clinic (Cleveland, Ohio), no Instituto Húngaro de Cardiologia (Budapeste), em um Centro Médico em Long Beach (Califórnia), e também em pacientes de hospitais universitários em Zurique e Basel (Suíça).
 
 O banco de dados da Cleveland Clinic é um dos mais utilizados por pesquisadores de aprendizado de máquina. A partir das análises realizadas com esse banco de dados, foi construído um modelo que visa distinguir a presença ou ausência de doença cardíaca.
 
-Ferramentas:
+**Ferramentas:**
 
 O XGBoost se destaca devido a várias características:
 
