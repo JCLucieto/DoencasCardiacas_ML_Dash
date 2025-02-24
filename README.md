@@ -1,7 +1,7 @@
 # DoencasCardiacas_ML_Dash
-Machine Learning - Dash - Doenças Cardíacas
+**Machine Learning - Dash - Doenças Cardíacas**
 
-UC Irvine - Universidade da Califórnia - Doenças Cardíacas
+**UC Irvine - Universidade da Califórnia - Doenças Cardíacas**
 
 **Projeto:**
 
